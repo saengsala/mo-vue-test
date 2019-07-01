@@ -1,0 +1,1 @@
+export const HELLO_ARRAY = 'HELLO_ARRAY'
